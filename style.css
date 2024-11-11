@@ -1,12 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Boogaloo&family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
 
 :root{
-    --bg-color: #10375C;
+    --bg-color: #222831;
     --primary-color:#DDDDDD;
-    --secundary-color:  rgb(233, 255, 151);
+    --secundary-color: #F05454;
     --font: "Nunito Sans", sans-serif;
-  
-
 }
 
 body{
@@ -48,10 +46,6 @@ nav a:hover{
     transition: transform 0.1s;
 }
 
-.grafico{
-    margin-top: 3rem;
-}
-
 #graficos-container{
     margin: 5rem;
 }
@@ -78,4 +72,3 @@ footer{
     height: 3rem;
     margin-top: 2rem;
 }
- 
